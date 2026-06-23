@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+numpy
+face-recognition
+opencv-python-headless
+python-jose[cryptography]
+passlib[bcrypt]
+aiofiles
+aiosmtplib
+email-validator
+dnspython
+python-dotenv
